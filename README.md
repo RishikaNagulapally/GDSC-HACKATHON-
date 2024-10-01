@@ -1,2 +1,2 @@
-# GDSC-HACKATHON-
+# GDSC-HACKATHON
 Entreprenural Website PROTOTYPE
