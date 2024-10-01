@@ -1,0 +1,199 @@
+*{
+    border: border-box;
+    margin: 0;
+    font-family: arial;
+  }
+  
+  .navbar{
+      height: 70px;
+      width: 100%;
+      background-color: black;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+  }
+  
+  ul{
+      display: flex;
+      font-style: none;
+      list-style: none;
+      margin: 10px 20px;
+  }
+  
+  .home{
+      color: red;
+      font-size: 1rem;
+      font-weight: 600;
+      font-style: none;
+  }
+  
+  .a2{
+      color: white;
+      font-size: 1rem;
+      font-weight: 600;
+      font-style: none;
+  }
+  
+  .element2{
+      margin-right: 2.5rem;
+  }
+  
+  li a{
+      text-decoration: none;
+  }
+  
+  .element1{
+    height: 70px;
+    width: 150px;
+  }
+
+  .mainimg1{
+    height: 45rem;
+    width: 100%;
+    background-repeat: no-repeat;
+    align-items: left;
+    justify-content: left;
+    text-align: left;
+    background-image: url(investor11.jpg);
+    background-size: cover;
+}
+
+body{
+    background-color: black;
+}
+
+.investorspage{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.investors{
+    width: 98%;
+    height: 10rem;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+    display: flex;
+    color: white;
+    border: solid black 2px;
+}
+
+.investorsollu{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 500;
+    align-items: left;
+    text-align: left;
+    justify-content: left;
+}
+
+.investorsollu2{
+    font-size: 1.5rem;
+    font-weight: 500;
+    align-items: right;
+    justify-content: right;
+    text-align: right;
+    margin-right: 6rem;
+    color: white;
+}
+
+.investorsollu3{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 500;
+    align-items: left;
+    text-align: left;
+    justify-content: left;
+}
+
+.investor1{
+    color: white;
+    height: 10rem;
+    width 8rem;
+}
+
+.investor1sollu{
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.meetinvestors{
+    color: white;
+    font-size: 3rem;
+    font-weight: 800;
+}
+
+.investor2sollu{
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-left: 3rem;
+}
+ 
+.investor3sollu{
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-left: 1rem;
+}
+
+.border{
+    border: 1.4px solid transparent;
+}
+
+.border:hover{
+    border: 5px solid white;
+}  
+
+footer{
+    height: 15rem;
+    width: 100%;
+    background-color:#C3C1C0;
+    margin-top: 0rem;
+    justify-content: space-evenly;
+  }
+  
+  .quries{
+    margin-left: 1rem;
+    margin-top: 3rem;
+  
+  }
+  
+  .ph{
+    font-size: 2rem;
+  
+  }
+  
+  .mail{
+   margin-top: 3rem;
+   font-size: 2rem;
+  
+  }
+  
+  .emoji{
+    display: flex;
+  }
+  
+  .ma{
+    margin-left: 25rem;
+  }
+  
+  .ph{
+     margin-left: 23rem;
+  }
+  
+  .phn{
+    margin-left: 22rem;
+    margin-top: 1rem;
+  }
+  
+  .phone{
+    display: flex;
+  }
+  
+  .mai{
+    margin-top: 1rem;
+    margin-left: 18rem;
+  }
+  

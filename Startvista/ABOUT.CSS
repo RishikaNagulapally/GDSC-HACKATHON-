@@ -1,0 +1,152 @@
+*{
+    border: border-box;
+    margin: 0;
+    font-family: arial;
+  }
+  
+  .navbar{
+      height: 70px;
+      width: 100%;
+      background-color: black;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+  }
+  
+  ul{
+      display: flex;
+      font-style: none;
+      list-style: none;
+      margin: 10px 20px;
+  }
+  
+  .about{
+      color: red;
+      font-size: 1rem;
+      font-weight: 600;
+      font-style: none;
+  }
+  
+  .a2{
+      color: white;
+      font-size: 1rem;
+      font-weight: 600;
+      font-style: none;
+  }
+  
+  .element2{
+      margin-right: 2.5rem;
+  }
+  
+  li a{
+      text-decoration: none;
+   
+  }
+
+  .element1{
+    height: 70px;
+    width: 150px;
+  }
+
+.mainimg{
+    height: 40rem;
+    width: 100%;
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.color{ 
+    background-color :#C3C1C0;
+    height: 80rem;
+    width: 100%;
+}
+
+.heading{
+    font-size: 1.4rem;
+    font-weight: 500;
+    justify-content: space-between;
+    margin-left: 0.5rem;
+    margin-top: 0rem;
+}
+
+.box{
+    height: 400px;
+    border: 2px solid black;
+    width: 23%;
+    justify-content: space-evenly;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+    display: flex;
+}
+
+.aboutimg{
+    text-align: right;
+    justify-content: right;
+    height: 10rem;
+    width: 17rem;
+    align-items: right;
+    margin-left: 56rem;
+}
+
+.aboutimg1{
+    text-align: left;
+    justify-content: left;
+    height: 10rem;
+    width: 17rem;
+    align-items: left;
+}
+
+footer{
+    height: 15rem;
+    width: 100%;
+    background-color:white;
+    margin-top: 0rem;
+    justify-content: space-evenly;
+  }
+  
+  .quries{
+    margin-left: 1rem;
+    margin-top: 3rem;
+  
+  }
+  
+  .ph{
+    font-size: 2rem;
+  
+  }
+  
+  .mail{
+   margin-top: 3rem;
+   font-size: 2rem;
+  
+  }
+  
+  .emoji{
+    display: flex;
+  }
+  
+  .ma{
+    margin-left: 25rem;
+  }
+  
+  .ph{
+     margin-left: 23rem;
+  }
+  
+  .phn{
+    margin-left: 22rem;
+    margin-top: 1rem;
+  }
+  
+  .phone{
+    display: flex;
+  }
+  
+  .mai{
+    margin-top: 1rem;
+    margin-left: 18rem;
+  }
+  

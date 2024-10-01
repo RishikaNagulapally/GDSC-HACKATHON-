@@ -1,0 +1,187 @@
+*{
+  border: border-box;
+  margin: 0;
+  font-family: arial;
+}
+
+.navbar{
+    height: 70px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    font-style: none;
+    list-style: none;
+    margin: 10px 20px;
+}
+ 
+.home{
+    color: red;
+    font-size: 1rem;
+    font-weight: 600;
+    font-style: none;
+}
+
+.a2{
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    font-style: none;
+}
+
+.element2{
+    margin-right: 2.5rem;
+}
+
+li a{
+    text-decoration: none;
+ 
+}
+
+.element1{
+    height: 70px;
+    width: 150px;
+  }
+
+.mainimg{
+    height: 40rem;
+    width: 100%;
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-image: url(homepage1.png);
+}
+
+.color{
+    background-color: black;
+    height: 40rem;
+    width: 100%;
+}
+
+.wel{
+    align-items: right;
+    font-size: 2rem;
+    font-weight: 800;
+    text-align: right;
+    margin-right: 3rem;
+    margin-top: rem;
+}
+
+.cap{
+    align-items: right;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: right;
+    margin-right: 8rem;
+    border-top: 0.4rem;
+}
+
+.c1{
+    color: white;
+    font-size: 1.8rem;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-right: 1.8rem;
+}
+
+.border{
+    border: 1.4px solid transparent;
+}
+
+.border:hover{
+    border: 5px solid white;
+}
+
+.i{
+
+    width: 30rem;
+    height: 25rem;
+    background-size: cover;
+}
+
+.i2{
+    width: 15rem;
+    height: 10rem;
+    background-size: cover;
+    justify-content: space-between;
+}
+
+.img1{
+    display: flex;
+}
+
+.i3{
+    width: 15rem;
+    height: 12rem;
+    background-size: cover;
+    justify-content: space-between;
+
+}
+
+.i4{
+    width: 23rem;
+    height: 25rem;
+    background-size: cover;
+    justify-content: space-between;
+    margin-left: 3rem;
+}
+
+footer{
+    height: 15rem;
+    width: 100%;
+    background-color:#C3C1C0;
+    margin-top: 0rem;
+    justify-content: space-evenly;
+  }
+  
+  .quries{
+    margin-left: 1rem;
+    margin-top: 3rem;
+  
+  }
+  
+  .ph{
+    font-size: 2rem;
+  
+  }
+  
+  .mail{
+   margin-top: 3rem;
+   font-size: 2rem;
+  
+  }
+  
+  .emoji{
+    display: flex;
+  }
+  
+  .ma{
+    margin-left: 25rem;
+  }
+  
+  .ph{
+     margin-left: 23rem;
+  }
+  
+  .phn{
+    margin-left: 22rem;
+    margin-top: 1rem;
+  }
+  
+  .phone{
+    display: flex;
+  }
+  
+  .mai{
+    margin-top: 1rem;
+    margin-left: 18rem;
+  }
+  
